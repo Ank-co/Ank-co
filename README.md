@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-light.svg">
-  <img alt="Antoine David. I build AI agent systems.  Background in econometrics and data engineering. Based in France, open to international roles." src="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-light.svg?v=2">
+  <img alt="Antoine David. I build AI agent systems. Background in econometrics and data engineering. Based in France, open to international roles." src="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-light.svg?v=2" width="100%">
 </picture>
 
 
