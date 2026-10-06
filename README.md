@@ -1,18 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&color=0:4A6FA5,100:9DB2CF&height=230&section=header&text=Antoine%20David&fontColor=E6EDF3&fontSize=52&fontAlignY=42&desc=AI%20Engineering%20%C2%B7%20Econometrics%20%C2%B7%20Data&descSize=16&descAlignY=64&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&color=0:4A6FA5,100:9DB2CF&height=230&section=header&text=Antoine%20David&fontColor=1F2328&fontSize=52&fontAlignY=42&desc=AI%20Engineering%20%C2%B7%20Econometrics%20%C2%B7%20Data&descSize=16&descAlignY=64&animation=fadeIn">
-  <img alt="Antoine David, AI Engineering, Econometrics, Data" src="https://capsule-render.vercel.app/api?type=blur&color=0:4A6FA5,100:9DB2CF&height=230&section=header&text=Antoine%20David&fontColor=1F2328&fontSize=52&fontAlignY=42&desc=AI%20Engineering%20%C2%B7%20Econometrics%20%C2%B7%20Data&descSize=16&descAlignY=64&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-light.svg">
+  <img alt="Antoine David. I build AI agent systems. LLMs propose, deterministic code verifies. Background in econometrics and data engineering." src="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-light.svg" width="100%">
 </picture>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&size=16&duration=3500&pause=1500&color=9198A1&center=true&vCenter=true&width=600&height=40&lines=LLMs+propose.+Deterministic+code+verifies.;MSc+Data+Engineering+%26+Econometric+Evaluation;Open+to+VIE+and+full-time+roles,+early+2027">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&size=16&duration=3500&pause=1500&color=59636E&center=true&vCenter=true&width=600&height=40&lines=LLMs+propose.+Deterministic+code+verifies.;MSc+Data+Engineering+%26+Econometric+Evaluation;Open+to+VIE+and+full-time+roles,+early+2027">
-    <img alt="LLMs propose. Deterministic code verifies." src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&size=16&duration=3500&pause=1500&color=59636E&center=true&vCenter=true&width=600&height=40&lines=LLMs+propose.+Deterministic+code+verifies.;MSc+Data+Engineering+%26+Econometric+Evaluation;Open+to+VIE+and+full-time+roles,+early+2027">
-  </picture>
-</p>
-
-I build AI agent systems where LLMs do the creative work and deterministic code checks it. Background in econometrics and data engineering.
 
 **Looking for:** VIE or full-time positions in AI engineering, data science or quantitative analysis, starting early 2027. Open to international roles.
 
