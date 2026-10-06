@@ -1,10 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-light.svg">
-  <img alt="Antoine David. I build AI agent systems. LLMs propose, deterministic code verifies. Background in econometrics and data engineering." src="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-light.svg" width="100%">
+  <img alt="Antoine David. I build AI agent systems.  Background in econometrics and data engineering. Based in France, open to international roles." src="https://raw.githubusercontent.com/Ank-co/Ank-co/main/assets/header-light.svg" width="100%">
 </picture>
 
-**Looking for:** VIE or full-time positions in AI engineering, data science or quantitative analysis, starting early 2027. Open to international roles.
 
 ## Experience
 
