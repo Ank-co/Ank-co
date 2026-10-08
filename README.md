@@ -18,6 +18,13 @@ Designed and built an automated AI agent system that optimizes scientific Python
 
 The code is proprietary, which is why most of my 2026 activity on this profile is in a private repository.
 
+## Projects
+
+- **[Bulls, Bears and Gamblers](https://github.com/Ank-co/Bulls-Bears-and-Gamblers)**: language models in markets, measured on a laptop GPU. A 1.7B model fine-tuned with LoRA reads market sentiment better than a 35B model (macro-F1 0.884 vs 0.788), and pre-registered experiments show that removing a model's refusal behaviour makes it follow gambling clients instead of protecting them, and read neutral news as bullish.
+<!--
+- **[HandTrackingAR](https://github.com/Ank-co/HandTrackingAR)**: real-time visual effects on the hands. Python (MediaPipe, OpenCV) tracks both hands and detects gestures, then streams them to Unity, which renders a fire effect on each hand.
+-->
+
 ## Education
 
 - **MSc in Applied Economics, Data Engineering & Econometric Evaluation**, Université d'Angers (2026)
@@ -25,14 +32,7 @@ The code is proprietary, which is why most of my 2026 activity on this profile i
 
 ## Skills
 
-Python · NumPy · LangGraph · LLM agents · RAG (FAISS, embeddings) · HPC / SLURM · Econometrics · Power BI · Git
-
-<!--
-## Projects
-
-- **[HandTrackingAR](https://github.com/Ank-co/HandTrackingAR)**: real-time visual effects on the hands. Python (MediaPipe, OpenCV) tracks both hands and detects gestures, then streams them to Unity, which renders a fire effect on each hand.
-- **[NOM DU PROJET](https://github.com/Ank-co/NOM-DU-DEPOT)**: à compléter après relecture du mémoire.
--->
+Python · NumPy · LangGraph · LLM agents · LoRA fine-tuning · RAG (FAISS, embeddings) · llama.cpp · HPC / SLURM · Econometrics · Statistical testing · Power BI · Git
 
 ## Contact
 
