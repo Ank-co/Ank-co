@@ -20,7 +20,7 @@ The code is proprietary, which is why most of my 2026 activity on this profile i
 
 ## Projects
 
-- **[Bulls, Bears and Gamblers](https://github.com/Ank-co/Bulls-Bears-and-Gamblers)**: language models in markets, measured on a laptop GPU. A 1.7B model fine-tuned with LoRA reads market sentiment better than a 35B model (macro-F1 0.884 vs 0.788), and pre-registered experiments show that removing a model's refusal behaviour makes it follow gambling clients instead of protecting them, and read neutral news as bullish.
+- **[Bulls, Bears and Gamblers](https://github.com/Ank-co/Bulls-Bears-and-Gamblers)**: language models in markets, measured on a laptop GPU. A 1.7B model fine-tuned with LoRA reads market sentiment better than a 35B model used zero-shot (macro-F1 0.884 vs 0.757), and pre-registered experiments show that removing a model's refusal behaviour makes it follow gambling clients instead of protecting them, across three model families.
 <!--
 - **[HandTrackingAR](https://github.com/Ank-co/HandTrackingAR)**: real-time visual effects on the hands. Python (MediaPipe, OpenCV) tracks both hands and detects gestures, then streams them to Unity, which renders a fire effect on each hand.
 -->
